@@ -62,7 +62,7 @@ Steps:
     • Better Inline Clock (font size->custom=18, date format="ddd d,MMM | ")
     • One more Latte spacer (8px)
     • System tray (set everything to always hidden)
-    • 
+    
 *all widgets either come with Plama or can be instaled from "get new widgets".
 
 
