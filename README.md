@@ -63,7 +63,7 @@ Steps:
     • One more Latte spacer (8px)
     • System tray (set everything to always hidden)
     
-*all widgets either come with Plama or can be instaled from "get new widgets".
+*alll widgets either come with Plasma or can be installed from "get new widgets".
 
 
 •Add a dock with the same settings of the panel but the alignment to center and add an icon only task manager from widget.
